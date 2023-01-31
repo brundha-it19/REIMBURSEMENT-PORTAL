@@ -31,10 +31,7 @@ export default
                     }     
                    })
             }    
-            // getFlag({commit},{success,fail})                    
-            // {
-                
-            // }     
+               
         },
         getters:{
             retrieve_completed_man(state){
