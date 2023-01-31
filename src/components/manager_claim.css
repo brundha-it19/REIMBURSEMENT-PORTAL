@@ -1,0 +1,25 @@
+/* #coll2{
+    color:black;
+    width:1110px;
+    background-color: aliceblue;
+} */
+#Approved
+{
+    width:100px;
+    border: 2px solid white;
+    background-color: #333;
+    color:white;
+    border-radius: 5px;
+    margin-left: 900px;
+}
+#Rejected{
+    width:100px;
+    border: 2px solid white;
+    background-color: #333;
+    color:white;
+    border-radius: 5px;
+    margin-left: 900px;
+}
+#inp{
+    width:200px;
+}
